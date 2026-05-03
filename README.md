@@ -4,12 +4,14 @@ The Vrinda store wants to create  an annual sales report for 2022. So that, the 
 
 ## Questions (KPIs)
 
-- Compare the sales and orders using a single chart.
-- Which month got the highest sales and orders?
-- Who purchased more – Men or Women?
-- What are the different order statuses in 2022?
-- List the top 10 states contributing to the sales.
-- Analyze the relation between age and gender based on number of orders.
-- Which channel is contributing the maximum sales?
-- Identify the highest selling category.
-- Calculate the percentage of total orders delivered.
+- Compare the Sales and Orders using a single chart
+- Which month got the highest Sales and Orders?
+- Who purchased more in 2022 – Men or Women?
+- What are different Order Status in 2022?
+- List top 10 states contributing to the sales
+- Relation between Age and Gender based on number of orders
+- Which Channel is contributing to maximum sales?
+- Highest Selling Category?
+- Percentage of Total Orders delivered
+
+  
